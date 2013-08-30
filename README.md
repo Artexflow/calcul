@@ -8,6 +8,7 @@ I'll soon provide some changes and clean the code.
 
 USAGE :
 * Enter a valid string as parameter and press enter.
+* Supported operators : * / % - + 
 
 CHANGES TO BE DONE :
 * Clean the code (return values, var names, ...).
